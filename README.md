@@ -1,0 +1,2 @@
+# WaveTrade
+Stock Trading Algorithm
